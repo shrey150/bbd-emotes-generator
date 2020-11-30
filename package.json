@@ -1,0 +1,16 @@
+{
+  "name": "bbd-emotes-generator",
+  "version": "1.0.0",
+  "description": "Generates emote data for BetterDiscord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Shrey Pandya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1"
+  }
+}
